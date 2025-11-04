@@ -1,5 +1,5 @@
 
-
+#HR ATTRITTION ANALYTIC
 A Power BI Dashboard designed to analyze Employee Attrition and provide insights into key HR metrics such as attrition rate, employee count, overtime trends, and satisfaction scores.
 
 📊 Dashboard Overview
